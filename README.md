@@ -2,4 +2,4 @@
 Assignments for my Engineering-095 class "Sensing the World"
 
 ## Programming Activities
-Sep 9 - print out and blinking
+Program1.py - Made Sep 9, Prints "Hello World" Program2.py - Made Sep 9, Prints my name
